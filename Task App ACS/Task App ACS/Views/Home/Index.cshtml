@@ -1,0 +1,27 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="mb-3">
+    <label for="exampleFormControlInput1" class="form-label">Email Or Phone Number</label>
+    <input type="text" id="searchInput" class="form-control"  placeholder="ابحث عن إيميل أو رقم هاتف">
+</div>
+<table class="table mt-3" id="resultTable" style="display:none;">
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>الإيميل</th>
+            <th>رقم الهاتف</th>
+        </tr>
+    </thead>
+    <tbody></tbody>
+</table>
+
+<p id="noResults" style="display:none;" class="text-muted mt-2">لا توجد نتائج.</p>
+
+@section Scripts {
+
+    <script src="~/js/JavaScript.js" asp-append-version="true">
+        
+    </script>
+}

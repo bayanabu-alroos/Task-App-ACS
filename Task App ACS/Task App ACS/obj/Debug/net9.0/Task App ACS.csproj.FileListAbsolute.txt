@@ -1,0 +1,231 @@
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\appsettings.json
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\Task App ACS.staticwebassets.runtime.json
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\Task App ACS.staticwebassets.endpoints.json
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\Task App ACS.exe
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\Task App ACS.deps.json
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\Task App ACS.runtimeconfig.json
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\Task App ACS.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\Task App ACS.pdb
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\Humanizer.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\Task App ACS.csproj.AssemblyReference.cache
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\Task App ACS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\Task App ACS.AssemblyInfoInputs.cache
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\Task App ACS.AssemblyInfo.cs
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\Task App ACS.csproj.CoreCompileInputs.cache
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\Task App ACS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\Task App ACS.RazorAssemblyInfo.cache
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\Task App ACS.RazorAssemblyInfo.cs
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\Task App ACS.sourcelink.json
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\scopedcss\bundle\Task App ACS.styles.css
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\scopedcss\projectbundle\Task App ACS.bundle.scp.css
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\compressed\3360vi6rho-b9sayid5wm.gz
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\compressed\gakye9s0rf-61n19gt1b8.gz
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\compressed\h238xgvlxf-xtxxf3hu2r.gz
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\compressed\dl1j1w195w-bqjiyaj88i.gz
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\compressed\rg7my9nn42-c2jlpeoesf.gz
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\compressed\uufylycueq-erw9l3u2r3.gz
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\compressed\58urtu6v6u-aexeepp0ev.gz
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\compressed\dxk6f840qo-d7shbmvgxk.gz
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\compressed\65sl05dsn4-ausgxo2sd3.gz
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\compressed\26odg6fdy5-k8d9w2qqmf.gz
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\compressed\r5k27ptx5e-cosvhxvwiu.gz
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\compressed\f8pbh60s1g-ub07r2b239.gz
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\compressed\hv1fhuyify-fvhpjtyr6v.gz
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\compressed\elyq1u90n8-b7pk76d08c.gz
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\compressed\kdqhl7k8lf-fsbi9cje9m.gz
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\compressed\zx51tlzx4u-rzd6atqjts.gz
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\compressed\81oq9w7131-ee0r1s7dh0.gz
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\compressed\e7z813wk4o-dxx9fxp4il.gz
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\compressed\1764gv18xg-jd9uben2k1.gz
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\compressed\fa59hqivx3-khv3u5hwcm.gz
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\compressed\kz290qbwca-r4e9w2rdcm.gz
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\compressed\dd81z76hyp-lcd1t2u6c8.gz
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\compressed\sruhob07a8-c2oey78nd0.gz
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\compressed\y7wonvc45l-tdbxkamptv.gz
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\compressed\12ctlwop2m-j5mq2jizvt.gz
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\compressed\8zbawajymt-06098lyss8.gz
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\compressed\acjigc214z-nvvlpmu67g.gz
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\compressed\5okoxov38i-s35ty4nyc5.gz
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\compressed\32927z97wu-pj5nd1wqec.gz
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\compressed\05egu3f69a-46ein0sx1k.gz
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\compressed\pqnaq8f6oo-v0zj4ognzu.gz
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\compressed\lbcjs6elp9-37tfw0ft22.gz
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\compressed\anyhellflp-hrwsygsryq.gz
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\compressed\44hxt3r2ib-pk9g2wxc8p.gz
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\compressed\uae5pjfdfd-ft3s53vfgj.gz
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\compressed\i7icqmtkxx-6cfz1n2cew.gz
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\compressed\xc3fxp08bc-6pdc2jztkx.gz
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\compressed\jsrr4btn9f-493y06b0oq.gz
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\compressed\e6yttjre13-iovd86k7lj.gz
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\compressed\zx00wsivau-vr1egmr9el.gz
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\compressed\1nj53kmlwc-kbrnm935zg.gz
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\compressed\t4dslinvc0-jj8uyg4cgr.gz
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\compressed\xxae8x60pv-y7v9cxd14o.gz
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\compressed\qkag5smaga-notf2xhcfb.gz
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\compressed\00lmadyzij-h1s4sie4z3.gz
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\compressed\bzvx0nrffi-63fj8s7r0e.gz
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\compressed\ub1qcd4a3e-0j3bgjxly4.gz
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\compressed\v7tss3oja7-47otxtyo56.gz
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\compressed\hjbcftcn74-4v8eqarkd7.gz
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\compressed\qvnobvqars-356vix0kms.gz
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\compressed\5qj1hcrqz7-83jwlth58m.gz
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\compressed\ybsqvu65uj-mrlpezrjn3.gz
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\compressed\jtohehllip-lzl9nlhx6b.gz
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\compressed\docmsrmep3-ag7o75518u.gz
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\compressed\uf8umengbu-x0q3zqp4vz.gz
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\compressed\7vcsnyne2b-0i3buxo5is.gz
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\compressed\66oz0inx0j-o1o13a6vjx.gz
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\compressed\h4oj7qdqgi-ttgo8qnofa.gz
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\compressed\nr5retqgi9-2z0ns9nrw6.gz
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\compressed\tocdyot11g-muycvpuwrr.gz
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\compressed\tku40blmbi-87fc7y1x7t.gz
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\compressed\abthz4qkkv-mlv21k5csn.gz
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\compressed\euh770rxws-3o85bzwr25.gz
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\compressed\4t3dcb53zr-3o85bzwr25.gz
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\Task App.3AFF81C4.Up2Date
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\Task App ACS.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\refint\Task App ACS.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\Task App ACS.pdb
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\Task App ACS.genruntimeconfig.cache
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\ref\Task App ACS.dll
+C:\Users\bayan\Desktop\Bayan\ERP System Report\Task App ACS\Task App ACS\obj\Debug\net9.0\compressed\c0mo7xtfbb-kp1k8na383.gz
